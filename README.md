@@ -3,7 +3,7 @@ Thomas JUSTIN
 
 Passionné par le développement informatique. J'aime apprendre de nouvelles technologies, réaliser des projets concrets et améliorer mes compétences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-identifiant/) [![Email](https://img.shields.io/badge/Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=black)](mailto:thomasequihen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-justin-96809538a/) [![Email](https://img.shields.io/badge/Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=black)](mailto:thomasequihen@gmail.com)
 
 🚀 À propos de moi      
 🎓 Formation : BUT Informatique  
@@ -50,8 +50,24 @@ Des outils qui peuvent faciliter la conception, l'organisation et la présentati
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 🚀 Mes projets  
-📌 Nom du projet 1
+📌 Portfolio personnel 
 
-Technologies : JavaScript · HTML · CSS · SQL
+Projet de développement d'un site web personnel.
+
+Le dépôt contient une structure applicative assez complète, basée sur Symfony. 
+
+Technologies : Symfony, Docker Twig, Doctrine ORM
+
+
+🚀 Mes projets  
+📌 Doc2Quiz
+
+Doc2Quiz est une application pédagogique qui permet aux enseignants de transformer leurs supports de cours en questionnaires interactifs.
+
+L'objectif est d'automatiser la création de quiz à partir de documents, afin de faciliter la révision et l'auto-évaluation des étudiants.
+
+Technologies : Python, PostgreSQL, Docker, Ollama
 
 📊 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinthomas22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
