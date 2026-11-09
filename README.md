@@ -5,14 +5,18 @@ Passionné par le développement informatique. J'aime apprendre de nouvelles tec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-justin-96809538a/) [![Email](https://img.shields.io/badge/Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=black)](mailto:thomasequihen@gmail.com)
 
+---
+
 🚀 À propos de moi      
 🎓 Formation : BUT Informatique  
 💡 Centres d'intérêt : Développement web, Course à pied     
 🛠️ Objectif : Concevoir des applications performantes, utiles et bien structurées    
 🌱 En apprentissage : Nouvelles technologies et bonnes pratiques de développement 
 
+---
 
-💻 Compétences techniques
+
+# 💻 Compétences techniques
 
 ### 🌐 Développement web
 
@@ -32,14 +36,14 @@ Passionné par le développement informatique. J'aime apprendre de nouvelles tec
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 
-🔧 Outils et environnements
+### 🔧 Outils et environnements
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🎨 Outils complémentaires
+### 🎨 Outils complémentaires
 
 Des outils qui peuvent faciliter la conception, l'organisation et la présentation de projets.
 
@@ -49,7 +53,7 @@ Des outils qui peuvent faciliter la conception, l'organisation et la présentati
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-🚀 Mes projets  
+## 🚀 Mes projets  
 📌 Portfolio personnel 
 
 Projet de développement d'un site web personnel.
@@ -58,8 +62,8 @@ Le dépôt contient une structure applicative assez complète, basée sur Symfon
 
 Technologies : Symfony, Docker Twig, Doctrine ORM
 
+---
 
-🚀 Mes projets  
 📌 Doc2Quiz
 
 Doc2Quiz est une application pédagogique qui permet aux enseignants de transformer leurs supports de cours en questionnaires interactifs.
@@ -68,6 +72,3 @@ L'objectif est d'automatiser la création de quiz à partir de documents, afin d
 
 Technologies : Python, PostgreSQL, Docker, Ollama
 
-📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinthomas22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
