@@ -1,5 +1,4 @@
-Thomas JUSTIN  
-💻 Étudiant en informatique 
+# Thomas JUSTIN  - Développeur fullstack
 
 Passionné par le développement informatique. J'aime apprendre de nouvelles technologies, réaliser des projets concrets et améliorer mes compétences.
 
@@ -54,7 +53,7 @@ Des outils qui peuvent faciliter la conception, l'organisation et la présentati
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🚀 Mes projets  
-📌 Portfolio personnel 
+📌 [Portfolio personnel](https://github.com/justinthomas22/Portfolio)
 
 Projet de développement d'un site web personnel.
 
@@ -64,7 +63,7 @@ Technologies : Symfony, Docker Twig, Doctrine ORM
 
 ---
 
-📌 Doc2Quiz
+📌 [Doc2Quiz](https://github.com/armandddev/11_Doc2Quiz)
 
 Doc2Quiz est une application pédagogique qui permet aux enseignants de transformer leurs supports de cours en questionnaires interactifs.
 
