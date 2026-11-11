@@ -8,8 +8,7 @@ Passionné par le développement informatique. J'aime apprendre de nouvelles tec
 
 🚀 À propos de moi      
 🎓 Formation : BUT Informatique  
-💡 Centres d'intérêt : Développement web, Course à pied     
-🛠️ Objectif : Concevoir des applications performantes, utiles et bien structurées    
+💡 Centres d'intérêt : Développement web, Course à pied      
 🌱 En apprentissage : Nouvelles technologies et bonnes pratiques de développement 
 
 ---
@@ -63,11 +62,19 @@ Technologies : Symfony, Docker Twig, Doctrine ORM
 
 ---
 
+📌 [Site web API](https://github.com/justinthomas22/Site-web-API)
+
+Développement d'une application web permettant de consulter et gérer des données sportives, d'exploiter des statistiques et de réaliser des prédictions à partir de résultats historiques.
+
+Technologies : Node.js, PHP, API Rest, PostgreSQL, Docker 
+
+---
+
 📌 [Doc2Quiz](https://github.com/armandddev/11_Doc2Quiz)
 
 Doc2Quiz est une application pédagogique qui permet aux enseignants de transformer leurs supports de cours en questionnaires interactifs.
 
 L'objectif est d'automatiser la création de quiz à partir de documents, afin de faciliter la révision et l'auto-évaluation des étudiants.
 
-Technologies : Python, PostgreSQL, Docker, Ollama
+Technologies : Python, NoSQL, Docker, Ollama
 
